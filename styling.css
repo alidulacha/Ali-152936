@@ -1,0 +1,13 @@
+body{
+	background-color: rgba(222, 222, 223);
+}
+p{
+	text-transform: uppercase;
+	color: orangered;
+	font-family: sans-serif;
+}
+.header{
+	background-color: azure;
+	text-align: right;
+}
+.toplink
